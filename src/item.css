@@ -1,0 +1,9 @@
+.item{
+    background-color: gray;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
